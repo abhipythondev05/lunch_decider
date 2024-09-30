@@ -1,0 +1,14 @@
+asgiref==3.8.1
+Django==4.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+drf-yasg==1.21.7
+gunicorn==21.0.1
+inflection==0.5.1
+packaging==24.1
+PyJWT==2.9.0
+pytz==2024.2
+PyYAML==6.0.2
+setuptools==75.1.0
+sqlparse==0.5.1
+uritemplate==4.1.1
